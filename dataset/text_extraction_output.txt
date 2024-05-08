@@ -1,0 +1,821 @@
+Image ID: 0
+OCR Text:
+WAL*MART
+
+ALWAYS LOW PRICES.
+SUPERCENTER
+OPEN 24 HOURS
+
+(515 ) 986 - 1783
+ST# 5748 OP# 00000158 Teg 14 TR¥ 03178
+
+mga @ LTB 70.49 0.20 N
+FRAP 200010451 F 5.48 N
+DISCOUNT. GIVEN :
+SUBTOTAL aa
+CASH ab Pa
+CHANGE 12-09
+Annotations:
+{'shop': 'WALMART', 'total': 'TOTAL 5.11', 'item': 'BANANAS 000000004011KF 0.41 lb @ 1 lb /0.49 0.20 N', 'date_time': '08/20/10 13:12:01'}
+
+Image ID: 1
+OCR Text:
+TRADER JOE’S
+
+2001 Greenville Ave
+Dallas TX 75206
+Store #403 - (469) 334-0614
+
+OPEN 8:00AM TO 9:00PM DAILY
+
+R-CARROTS SHREDDED 10 02
+R-CUCUMBERS PERSIAN 1 LB
+TOMATOES CRUSHED NO SALT
+TOMATOES WHOLE NO SALT W/BASIL
+ORGANIC OLO FASHIONED OATMEAL
+MINI-PEARL TOMATOES. .
+PKG SHREDDED MOZZARELLA LITE T
+EGGS 1 DOZ ORGANIC BROWN.
+BEANS GARBANZO
+SPROUTED CA STYLE
+A-AVOCADUS HASS BAG ACT
+A-APPLE BAG JAZZ 2 LB
+A-PEPPER BELL EACH XL RED
+GROCERY NON TAXABLE
+
+200.49
+BANANAS ORGANIC
+
+3FA (0.29/64
+CREAMY. SALTED PEANUT BUTLER
+WHL WHT PITA BREAD
+GROCERY NON TAXABLE
+
+2 € 0.69
+
+SUBTOTAL $36 .68
+TOTAL. $38.68
+CASH $40.00
+CHANGE $1.32
+
+& QZBsSBSEssSosos
+
+am ©
+wok
+
+ITEMS 22 Higgins, Ryan
+06-28-2014 12:34PM 0403 04 1345 4683
+
+THANK YOU FOR SHOPPING AT
+TRADER JOE'S
+
+www trader joes .com
+Annotations:
+{'total': 'TOTAL $38.68', 'item': 'ORGANIC OLD FASHIONED OATMEAL 2.69', 'shop': "TRADER JOE'S", 'date_time': '06-28-2014 12:34PM'}
+
+Image ID: 10
+OCR Text:
+hear VU
+Annotations:
+{'item': 'BLACK CAT SMOOTH 270GR 27.99 A', 'shop': 'SPAR', 'total': 'TOTAL FOR 14 ITEMS 338.16', 'date_time': '23.02.21 16:17'}
+
+Image ID: 11
+OCR Text:
+WHOLE
+FOODS
+
+Ce AR OE FG
+SHARGN RD.
+. PL TORTELLA’S. 6.99 8
+” CAGE FREE ALL WHIT 3698
+. BLACK BEANS 1.29 B
+” Frozen Mangoes 160 2.99 8
+‘ Whole Strawberries 2.99 B
+* OG LF COTTAGE CHEE 3.49 8
+. MAHI HAHI FILLETS 8.99 B
+ve $2 off (1) WC Fill 2.00-
+California Harvest 2.69 B
+rox ib @ 199 Lb TARR = Ut
+auT PLUMS BLACK CV 2.15 B
+TTEH = 4040
+
+NHP OSI TCEG UYEN RO $99 8
+NHP SULLED Hien ORY 399 8
+
+164 Ib @ 1 99, 1b TARE al
+wt GA foe Pr hs ub soem ft
+
+ITEM = 94135
+
+wenn TAX 93 BAL 45.44
+Annotations:
+{'item': '* California Harvest 2.69 B', 'shop': 'WHOLE FOODS MARKET'}
+
+Image ID: 12
+OCR Text:
+WE SELL FOR LESS
+
+7 MANAGER ee SESSTON If
+a $36 - 4601
+TERFIELD, HO 63005.
+ST# 2600 ore T5000 T BES TI 17 TRE
+SW FIGURES 065356920144
+TOOTHBRUSH ea
+
+SUBTOTAl
+WOMEN SLIPPE 009725179,
+
+ACCOUNT $3546
+APPROVAL #007190
+TRANS ID -
+
+VALIDATION ~
+PAYMENT SERVICE - A
+CHANGE DUE 0.00
+
+# ITEMS SOLD 3
+
+Tce i 7094 6487 3073 3651
+
+i myo
+Annotations:
+{'date_time': '10/20/07 13:48:43', 'item': 'SW FIGURES 065356920144 6.63 X', 'total': 'TOTAL 18.75', 'shop': 'WALMART'}
+
+Image ID: 13
+OCR Text:
+tue: ALTSWOVER CW
+
+Walmart >|<
+
+ive better.
+
+OK
+Sla Og /ug we a toss Tey fa TRE ore
+SGb043. 30.000
+
+strata
+
+TOTAL.
+CASH | TEND:
+CHANGE OC
+
+‘SHIOP..CARL ACTIVATION
+ACCOUNT 613968995249 729"
+
+GItT CAR “OBY:
+Annotations:
+{'shop': 'Walmart', 'item': 'GIFT CARD 087458604333 50.00 0', 'date_time': '08/11/17 19:22:40', 'total': 'TOTAL 50.00'}
+
+Image ID: 14
+OCR Text:
+See back of receipt for your chance
+
+to win $1000
+ID #: 7LORX4K8PJX
+
+a!
+Walmart 2,5
+
+Save money. Live better.
+
+( 937 ) 644 - 2800
+MANAGER CHRISTOPHER wood
+RO Pion
+RYS
+ST# 01595 OP# 007573 TES 10 TRE 988”
+
+EQUATE LINER 068113186503
+
+WFUS ENG POM 005100024543 F 7.48 N
+
+DAWN ORIG 00370001 1045 5.97 X
+
+5OYD PKGTAPE 007535307841 1.12 X
+
+BOYD PKGTAPE 007535307841 1.12 X
+
+LINT ROLLER2 005114123488 5.78 X
+SUBTOTAL 26.35
+
+TK 1 7.000% oh 25
+0.
+DEBIT TEND 6.60 aed
+CHANGE DUE 0.00
+
+EFT DEBIT PAY FROM PRIMARY
+
+26.60 TOTAL PURCHASE
+week gun EEE HITT S
+
+ACCOUNT #
+REF ¢ 712400283994
+NETWORK ID. 0069 APPR CODE 868483
+
+TERMINAL # SCO10087
+05/04/17 19:54:16
+
+‘iil
+
+Store receipts on your phone. Walmart P
+ay.
+Annotations:
+{'total': 'TOTAL 26.60', 'item': '5OYD PKGTAPE 007535307841 1.12 X', 'date_time': '05/04/17 19:54:18', 'shop': 'Walmart'}
+
+Image ID: 15
+OCR Text:
+LP
+
+Soh beek of af receipt For vour chen
+
+TD: quvyauwowy “a
+
+Pd
+
+~ a
+Walmart 2,*-
+Save money. Live better:
+
+799 - 0020
+whet I ORRe THOMAS
+
+VISA TEND
+
+Credit awn wenn dann 3670 7
+ArPROvA 3 222258, 4
+REF & 62050060440"
+rRANS ID ~ Béeatyapeec0c0
+VALIDATION
+PAYRENT staviee = te 4
+AID ppzengaags are
+TC SEOFACSABOSESNI2:
+TERMINAL & art A?
+#NO SIGNATURE REQUIRED
+
+07/22/16 20:63:11
+THANGE DUE 0.00
+
+# ITEMS SOLD 1 "
+
+7603 0129 108:
+
+vet vi gL ga
+
+aaa” oaths gyre One
+‘SEXCUSTOHER COPYaa8 “
+‘Savings Catcher! Scan with Weinabt? ag
+lOFp ae ARIE ©
+z FA gh.
+
+i
+
+Hoy aust,
+
+1
+4
+J tog
+Annotations:
+{'date_time': '07/22/16 20:53:11', 'shop': 'Walmart', 'item': 'DIABETES 068113131172H 12.58 N', 'total': 'TOTAL 12.58'}
+
+Image ID: 16
+OCR Text:
+See back of receipt for your chance
+ta win $1000
+
+ID #: 9 7L2TSWIM25F
+
+Walmart >/<.
+
+Save money. Live better.
+
+{ 701 ) 223 - 9066
+MANAGER TIM MORRIS
+2717 ROCK TSLAND PL
+BISMARCK ND 58504
+ST# 01534 OP# 009048 TE# 48 TRH 04455
+
+6 WING PLATE 020108870398 3.98 P
+ASST 27 063099656595 4.88 X
+CUTIE CAR 063099656644 12.88 X
+
+SUBTOTAL 21.74
+
+(AX t 6.500 % 1.15
+
+TAX 4 7.500 & 0.30
+
+TOTAL, 23.19
+DEBIT TEND 23.19
+
+CHANGE DUE 0.00
+EF] OEBIT PAY FROM PRIMARY
+23.19 TOTAL PURCHASE
+US DEBIT xxx xexx xxx 2696 1 0)
+
+REF # 731700494718
+NETWORK 10. O08! APPR CODE 996886
+
+US DEBIT
+
+ATD AQOGO0U0980840
+
+TC 58B77239DA5B3B44
+*NO STGNATURE REQUIRED
+TERMINAL # SCO11090
+
+11/13/17 12:34:04
+# TTEMS SOLD 3
+IC# 2188 7274 6444 1967 3762
+
+TEA A
+
+Low Prices You Cari Trust. Every Day.
+W1/13/17 12:34:11
+
+Store receipts on your phone. Walmart P
+
+ay.
+Annotations:
+{'date_time': '11/13/17 12:34:04', 'item': '6 WING PLATE 020108870398 3.98 P', 'shop': 'Walmart', 'total': 'TOTAL 23.19'}
+
+Image ID: 17
+OCR Text:
+Sew back of receipt for your chance
+
+to win $1000
+
+1D: 7K2GF1SL2FF
+
+Walmart >,
+
+Save money. Live better.
+
+( 970 ) 269 ~ S765
+MANAGER MIKE pee
+ee s ae Fo
+
+DURAN
+ST# 02270 OP# ovat “4 et 83 TR# 03080
+= BANANAS 00000000401 1K:
+
+1.76 lb @ 1 lb /0.54
+BEVERAGE 003120002133
+QS CRAN POH 003120027015
+STRUBRY CC Gresitreaz00
+
+6
+
+44500982114 004460098211
+Bee BaLAAT PERE Ebed
+oocacon! oni
+
+oar 1 FOR 0.44
+prs WHITE 068113113619 F
+SH NYLON COL 007417024836
+HAND CLEANER 0041 2bt 00005
+TNJECTR CLNR 004980710003
+
+SUBTOTAL
+TAK 1 7.900 8
+JAK 2 6.000 *
+TAX 6 2,900 *
+OTA
+
+WWUNONNS
+
+MxM <4
+
+ed Se
+
+same 22 Awawweoow
+ Seecrananass ABSBRSSR
+
+au
+Noao-—
+
+Ht it i nN
+Annotations:
+{'total': 'TOTAL 38.68', 'item': 'KFT SINGLES 002100061526 F 3.78 Y', 'shop': 'Walmart', 'date_time': '01/15/17 14:26:03'}
+
+Image ID: 18
+OCR Text:
+Give iy
+Peed
+
+Tet yeayt
+Ye NY Atm Lg
+
+Walmart > sts
+Uh? ey
+me My MARK
+i ae CVPR / ‘oth NS Mn Ai
+
+NIU Lip
+par ear opy ie Fliea
+oy mA ae Ate Tt
+CREAT VAL u worse, yi9) 4 ten
+al va twvenaneae | 2.84 H
+ais in ‘aa i if 2.84N
+Wve of onset faa x
+ONT Ts (O28 142 10:39 I 7 82N
+GBR : > S8a0ROnOE3. 3. xX
+HMExe atk UO34N0029995 F 4.1K
+Cau Woe Gbanuand a7 F 13.24 x
+CAIN ON4a26880002 + 1.78 X
+HY Raat 003700082385 1.97 X
+BAT TRIES Pm 035497330621K 9.97 N
+GV 200! 001280051783 10.97 X
+Creniy TUNE Go7K74219999 2.97 X
+Cea AL 03120001695 F «1.58 0
+‘ 007740026499 F 3.46 0
+007874212799 F_ 0.90 0
+SUBTOTAL = 82.75
+WAC1 7.000 % 3.60
+TOIAL 86.35
+DEBIT TEND 86.35
+CHANGE. DUE 0.00
+Fort PAY FROM PRIMARY
+‘ : 35 1OTAL PURCHASE
+
+FUE ITEITRD DEBE ax xaae xeex 9832 1 0)
+KEL #14400 72587
+NEIWOKK JU 0076 APPR CODE 001740
+US Debit
+Alu ANG0N00082203
+AAC ABE ARF 300 ras
+
+RMINAL # SCOT115 .
+“ qusai72b 10:08:22
+
+of ale a 18
+
+iit
+
+wa
+
+Prices
+carat
+Annotations:
+{'item': 'EGGS 6CT 007874212709 F 0.9 0', 'shop': 'Walmart', 'date_time': '10/31/21 10:08:22', 'total': 'TOTAL 86.35'}
+
+Image ID: 19
+OCR Text:
+Give us feedback @
+Thank’ your 1b 8: 700R SINE com
+Walmart s'-
+
+“8
+76-9425. Mar
+86 ET STATE ROA} ate
+
+0085:
+Pree Ficonee 26 TRH 02422
+FIBER CHoiGe 036926600094
+CELERY HEART cece F
+
+GRAPE
+2.51 Ib @ tb /teeg
+
+CHANGE
+SHOP. CARD REDEMPTION
+ACCOUNT sorxxesex nex )245
+
+aa
+Annotations:
+{'item': 'CELERY HEART 003338365301 2.48 N', 'shop': 'Walmart', 'total': 'TOTAL 35.05', 'date_time': '10/16/21 11:22:45'}
+
+Image ID: 2
+OCR Text:
+Sive us feedback @ survey.walmart.com
+Thank yout ID #:7PB65JWCFZ2
+
+Walmart >1¢
+
+949-498-6669 Nor: wrchaee
+951 _AVENIDA PICO
+
+va SAN CLEMENTE CA 92673
+oe ST# 02527 OP# 009045 TE# 45 TR¥ 06193
+
+QV OATMEAL 907874243408 F 1.76 0
+OT 2002 Tum 081236803115 6.74 X
+M ATHLETICS 019104567781 24.97 X
+DEXAS 19x20 008429710921 12.97 X
+
+SUBTOTAL 46.44
+
+TAX 1 7.750% 3.46
+
+TOTAL = 49.90
+
+DEBIT TEND 49.90
+
+CHANGE DUE 0.00
+
+FT DEBIT PAY FROM PRIMARY
+49.90 TOTAL PURCHASE
+
+US DEBIT exax xaxe xxx 9689 I 0
+
+REF # 029200699128
+NETWORK ID. 0055 APPR CODE 461500
+
++S
+
+wii ii
+
+Introducing Walmart+
+Join today at walmertcom/plus
+
+Prices You can Trust, Every Day.
+Ly Hee Pe aaa
+Annotations:
+{'date_time': '10/18/20 11:30:46', 'total': 'TOTAL 49.90', 'item': 'OT 200Z TUM 081236803115 6.74 X', 'shop': 'Waalmart'}
+
+Image ID: 3
+OCR Text:
+See back o hance
+tovutn $1050 "Eo ev hed me
+
+Waimart ><
+
+S17-B64- yige Har JAKE BROaK Stine
+882 S$. STATE ROAD
+
+sit 548s See ae gears
+002
+
+TATE] 2.36 0
+HRRD/PROG ne ores epee o
+
+CK BARS “ oozigogaagig F 4.98 T
+AY GL CHS oogizogogood F 0B.
+HRT ok cas gasizos0s000 F 8.88 0
+HRI cL OHS 205120506000 F 8
+
+RRE 12 “Us 0034 2063 10 F
+
+on a
+eed
+
+:
+aro Rang anna
+ES tT ieeat
+eee Gunes
+
+BS2aSovw sonan'
+
+rary
+SRReaRsa
+
+2eorenay
+
+be
+
+wii lil i ia iiaay
+
+Scan vith Gainart app ithe cae receipts
+&
+Annotations:
+{'item': 'TR HS FRM 4 002240062190 2.74 X', 'shop': 'Walmart', 'date_time': '04/27/19 12:59:46', 'total': 'TOTAL 144.02'}
+
+Image ID: 4
+OCR Text:
+Walmart >i<
+
+Save monsy. Live batter.
+
+{ 712 9 366 - 3326
+MANAGER DONALD MONEYMAKER
+3201 MANAWA CENTRE DR
+COUNCIL BLUFFS Te 61607
+$19 01966 OPE oOzos) Tes 20 TRE 05145,
+
+SU HRD FGHTR 063060940732 8.94 T
+SUBTOTAL 6.94
+TAX 1 7.000% 9.49
+
+TOTAL
+DEBIT TEND Ta
+CHANGE DUE 0.00
+
+EFT DEBIT PAY FROM PRIMARY
+7.43 TOTAL PURCHASE
+ACCOUNT ¢ Kena Wete nee =a 5
+
+REE # 634200381765
+WETWORK 1D. 0066 APPR CODE ON7193
+TERMINAL ¥ WK995026
+
+12/08/16 12:39:26
+
+# ITEMS SOLD 1
+
+TCE 3261 4114 0323 3051 6499
+
+AMT
+
+NEW STORE CU
+ight? dave a ueek.
+dan ee
+
++ ae
+Savings Catcher! Scan with Walner
+Sea
+Annotations:
+{'item': 'SW HRO FGHTR 063050940732 6.94 T', 'shop': 'Walmart', 'date_time': '12/08/15 12:39:26', 'total': 'TOTAL 7.43'}
+
+Image ID: 5
+OCR Text:
+WHOLE FOODs
+
+MARKET
+
+Sunnyvale SVL A08- AIS 1290
+150 © Me Kinley Ave
+ce sunnyvale, CA 94086
+ATTL SEA SALT POT CHP $1.29 §
+BueEOSD BRIOCHE $6.99 &
+CHEF PLATE MEAL $10
+2 @ $10.00 ea $20.00 F
+
+Subtotal : $25 . 28
+Net Sales: $28.26
+Total: $28 .28
+Sold Itens: 4
+
+Paid:
+
+RETURNS: We are now accepting returns on
+purchases with the following conditions:
+Returns will only be accepted on purchases
+made on or after 9/15/2020. All returns
+require a receipt. No returns on items
+purchased after 90 days. For additional
+information please visit wfm.com/returns.
+KK KK IOK KKK KKK KKK IK KK KK KEK AK KK KK KKK KKK
+
+Earn 5% Back at Whole Foods Market
+with the Amazon Prime Rewards Visa.
+Learn more at amazon.com/amazonvisa
+
+KREKKK KK KK RE RE KKK IKK KKK KKK KKK
+HOW WAS YOUR SHOPPING EXPERIENCE?
+Go to: htto://www.wfm.com/feedback
+ENTER FOR A CHANCE TO WIN A $250 GIFT CARD
+
+908 6387 02/10/2021 07:10 PM
+
+MITT
+
+63011070790806387021020210
+[HOW62ZD
+
+Whale Enade
+Annotations:
+{'item': 'BRAIDED BRIOCHE $6.99 F', 'date_time': '02/10/2021 07:10 PM', 'total': 'Total : $28.28', 'shop': 'WHOLE FOODS MARKET'}
+
+Image ID: 6
+OCR Text:
+No OCR text found
+Annotations:
+{'date_time': '26/01/2015 16:14', 'item': '1 Ice Java Tea 16, 000', 'shop': "MOMI TOY'S CREPERIE", 'total': 'TOTAL 175, 000'}
+
+Image ID: 7
+OCR Text:
+See back of receipt for your chance
+ta win $1000
+
+ID #: 9 7L2TSWIM25F
+
+Walmart >/<.
+
+Save money. Live better.
+
+{ 701 ) 223 - 9066
+MANAGER TIM MORRIS
+2717 ROCK TSLAND PL
+BISMARCK ND 58504
+ST# 01534 OP# 009048 TE# 48 TRH 04455
+
+6 WING PLATE 020108870398 3.98 P
+ASST 27 063099656595 4.88 X
+CUTIE CAR 063099656644 12.88 X
+
+SUBTOTAL 21.74
+
+(AX t 6.500 % 1.15
+
+TAX 4 7.500 & 0.30
+
+TOTAL, 23.19
+DEBIT TEND 23.19
+
+CHANGE DUE 0.00
+EF] OEBIT PAY FROM PRIMARY
+23.19 TOTAL PURCHASE
+US DEBIT xxx xexx xxx 2696 1 0)
+
+REF # 731700494718
+NETWORK 10. O08! APPR CODE 996886
+
+US DEBIT
+
+ATD AQOGO0U0980840
+
+TC 58B77239DA5B3B44
+*NO STGNATURE REQUIRED
+TERMINAL # SCO11090
+
+11/13/17 12:34:04
+# TTEMS SOLD 3
+IC# 2188 7274 6444 1967 3762
+
+TEA A
+
+Low Prices You Cari Trust. Every Day.
+W1/13/17 12:34:11
+
+Store receipts on your phone. Walmart P
+
+ay.
+Annotations:
+{'item': 'CUTIE CAR 063099656644 12.88 X', 'date_time': '11/13/17 12:34:11', 'shop': 'Walmart', 'total': 'TOTAL 23.19'}
+
+Image ID: 8
+OCR Text:
+") Thornton #629
+. 16375 K. Washington St.
+Thornton, CG 80023
+
+2 2k Member 111826278335
+‘ E —-673019 FF BS BREAST
+£ 633861 KS DICED TOM
+£ 967896 JACKORGSALSA
+38 4.29
+"og 878137 18CT EGGS
+- £ 77053 GRAPE TOMATO
+404609 ECO HALF PAN
+a © 55992 GRND TURKEY
+1 — 263423 CHRD ONION
+E 22101 MONT JACK 2#
+SUBTOTAL
+TAK
+soo TOTAL
+‘a Check/Member Prntd
+CHANGE
+
+A 8.50% TAK
+E 3.75% TAX 2.97
+TOTAL TAX 3.52
+TOTAL NUMBER OF ITEMS SOLD = W
+agmedaaale 15:00 629 4 12 14
+
+, OPf: 14 Name: PEPPER
+
+a Thank You!
+
+4 Please Come Again
+
+Whse:629 Trms4 Trns172 OP:14
+Annotations:
+{'item': 'E 673919 FF BS BREAST 23.99 E', 'shop': 'Costco WHOLESALE', 'date_time': '04/20/2016 15:00', 'total': '**** TOTAL 89.13'}
+
+Image ID: 9
+OCR Text:
+gaamier: Yr
+
+apart
+
+Mt
+sie] if ait 7560
+sak da, oreroost
+PORK Lt iy Ho 2 ae O08
+ee i FE 2oreg200000
+ue RAD st ia econ e000
+7979210
+cae sr, 1990013001
+
+Ft
+Bat S MEAT FARK op01903
+
+AM
+
+No $y58080308
+Tost cain an 9737101318
+KRFT oe i HAC 2100065886
+
+a2
+£660 WarrLe 9800037435
+L/D NUTTY BARS 2430004120
+LAD OATMEAL CRM 2430004101
+LINKS MIL 74295503660
+KEEB TOWNHOUSE 3010010055
+TURKEY FRANK 4222281210
+RESERS POT SLO 7141719300
+DM SPAG SAUCE 2400052963
+ee oe 7 2700044212
+
+fi) owe cir 240000016,
+Annotations:
+{'shop': 'WinCo FOODS', 'item': 'DM PNAPL CHNKY 2400000164 1.96 FS 2 @ .98', 'date_time': '09/08/14 11:16:24', 'total': 'TOTAL 121.92'}
+
